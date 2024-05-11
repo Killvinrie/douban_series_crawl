@@ -1,0 +1,4 @@
+使用webdriver框架实现模拟操作网页的过程
+在webriver实现动态加载网页过后，将网页的html传给beautifulsoup进行解析
+使用find和findall来针对性获取数据
+使用pandas处理数据输出到xlxs表格
